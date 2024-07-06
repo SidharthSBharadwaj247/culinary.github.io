@@ -1,0 +1,18 @@
+.Auth_main_div{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('../assets/auth_bg.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    z-index: 11;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #FFFBEF;
+    padding: 20px;
+}

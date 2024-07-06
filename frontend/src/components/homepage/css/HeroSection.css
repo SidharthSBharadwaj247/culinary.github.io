@@ -1,0 +1,8 @@
+.hero_section_main{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('../../../assets/hero_img.jpeg');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 100%;
+    width: 100%; */
+}
